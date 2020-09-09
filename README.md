@@ -7,6 +7,9 @@ A few resources to get you started if this is your first Flutter project:
 ## Screenshots
 ![Login](/assets/images/login.png)
 
+### Login:
+  - Please let me know I will share the credentials
+  
 ## To get json Serialization run command:
   - flutter packages pub run build_runner build --delete-conflicting-outputs
 
