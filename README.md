@@ -5,7 +5,7 @@ A few resources to get you started if this is your first Flutter project:
   - Values are hardcoded
 
 ## Screenshots
-![Login](/assets/login.png)
+![Login](/assets/images/login.png)
 
 ## To get json Serialization run command:
   - flutter packages pub run build_runner build --delete-conflicting-outputs
